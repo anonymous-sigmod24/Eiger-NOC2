@@ -1,7 +1,7 @@
 
 # EIGER-NOC2 Prototype
 
-This repository contains the prototype for the EIGER-NOC2 project. It is based on the repository from the SIGMOD 2014 paper titled [Scalable Atomic Visibility with RAMP Transactions](http://www.bailis.org/papers/ramp-sigmod2014.pdf) and includes enhancements to run experiments on EIGER-PORT, EIGER-PORT+, and EIGER-PORT++ along with the enhancements provided by the ORA repository.
+This repository contains the prototype for the EIGER-NOC2 project. It is based on the repository from the SIGMOD 2014 paper titled [Scalable Atomic Visibility with RAMP Transactions](http://www.bailis.org/papers/ramp-sigmod2014.pdf) and includes enhancements to run experiments on EIGER-PORT and Eiger-NOC2 along with the enhancements provided by the RA-NOC2 repository.
 
 ## Setting up the CloudLab Cluster
 
